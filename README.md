@@ -2,10 +2,10 @@
 
 Perkenalkan nama saya **Wahyu Indra Gading**.
 
-Saya seorang **Back-End Developer** di [Dicoding](https://www.dicoding.com/).
+Saya seorang **Back-End Developer** di [Nama Perusahaan](https://www.dicoding.com/).
 
-Saya bertanggung jawab pada kualitas back-end website dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org).
+Saya bertanggung jawab pada kualitas back-end website dengan dibekali [Nama Univ./Organisasi](https://www.coursera.org).
 
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net) sejak 2019.
+Saya juga memiliki gelar [Nama Gelar](https://www.credential.net) sejak 2019.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com) ku ya.
