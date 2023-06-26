@@ -2,13 +2,11 @@
 
 Perkenalkan nama saya **Wahyu Indra Gading**.
 
-Saya seorang **Back-End Developer** di [Nama Perusahaan](https://www.dicoding.com/).
+Saya penuntut ilmu yang bercita - cita menjadi **Front-End Web Developer** di [Astro](https://astro.build/).
 
-Saya bertanggung jawab pada kualitas back-end website dengan dibekali [Nama Univ./Organisasi](https://www.coursera.org).
+Salah satu pencapaian saya adalah mennaklukan Kelas Front-End Web Developer Expert di Dicoding Academy, [Sertifikat Kompetensi](https://www.dicoding.com/certificates/MRZMQ6YL3PYQ) diberikan pada 12 Juni 2023.
 
-Saya juga memiliki gelar [Nama Gelar](https://www.credential.net) sejak 2019.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan hubungi akun [Linkedin]([https://www.linkedin.com](https://www.linkedin.com/in/wahyu-indra-gading-42b601277/)) ku ya.
 
 <p align="left">
   <a href="https://github.com/wahyuindg">
