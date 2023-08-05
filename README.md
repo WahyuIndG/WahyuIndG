@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Wahyu Indra Gading**.
 
-Saya seorang penuntut ilmu yang bercita - cita menjadi **Front-End Web Developer** di [Astro](https://astro.build/).
+Saya seorang penuntut ilmu yang bercita - cita menjadi **Front-End Web Developer**
 
 Salah satu pencapaian saya adalah menaklukan Kelas Front-End Web Developer Expert di Dicoding Academy, [Sertifikat Kompetensi](https://www.dicoding.com/certificates/MRZMQ6YL3PYQ) diberikan pada 12 Juni 2023.
 
