@@ -4,8 +4,6 @@ Perkenalkan nama saya **Wahyu Indra Gading**.
 
 Saya seorang penuntut ilmu yang bercita - cita menjadi **Front-End Web Developer**
 
-Salah satu pencapaian saya adalah menaklukan Kelas Front-End Web Developer Expert di Dicoding Academy, [Sertifikat Kompetensi](https://www.dicoding.com/certificates/MRZMQ6YL3PYQ) diberikan pada 12 Juni 2023.
-
 Jika kamu tertarik untuk berkenalan denganku, silakan hubungi akun [Linkedin](https://www.linkedin.com/in/wahyu-indra-gading-42b601277/) ku ya.
 
 <p align="left">
